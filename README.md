@@ -1,6 +1,11 @@
+## CCWebi
+
+### Computer Science Student
+
+
 Hi, I’m **Is**! 
 
-> I love **gaming**, **eating** and **Sports**.
+> I love **gaming**, **eating** and **sports**.
 
 > I'm currently learning **Java**, **Haskell** and **LaTeX**.
 
