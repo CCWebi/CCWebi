@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hola, soy Isaac" src="./images/HSI.png" /></a></p>
+<p align="center"><img width="30%" alt="Hola, soy Isaac" src="./images/HSI.png" /></a></p>
 
 <br />
 ## CCWebi
