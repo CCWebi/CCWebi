@@ -1,9 +1,10 @@
 <p align="center"><img width="30%" alt="Hola, soy Isaac" src="./images/HSI.png" /></a></p>
 
 <br />
-## CCWebi
 
-### Computer Science Student
+I'm a Computer Science student from México.
+
+# CCWebi
 
 > I love **gaming**, **eating** and **sports**.
 
