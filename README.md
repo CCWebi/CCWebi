@@ -14,4 +14,5 @@ Hi, I’m **Is**!
 _day++;_
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCWebi&layout=compact&theme=dracula&count-private=true)](https://github.com/CCWebi/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCWebi&layout=compact&theme=dracula&count-private=true)](https://github.com/CCWebi/github-readme-stats)
+-->
