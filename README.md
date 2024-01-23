@@ -6,7 +6,7 @@
   
 ## CCWebi
 
-- 👨‍💻 I'm a Computer Science student from México 🇲🇽.<br/>
+- 👨‍💻 I'm a Computer Science student from México :mexico:.<br/>
 - 💻 I use VSCode and Sublime Text for coding.<br/>
 - 🐧 I use Windows, Fedora and Ubuntu as OS.
 - 🎮 I love playing Valorant, Minecraft, making strats, decoring interiors and redstone.<br/>
