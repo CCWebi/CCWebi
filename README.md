@@ -10,7 +10,7 @@
 - :computer: I use VSCode and Sublime Text for coding.<br/>
 - :penguin: I use Windows, Fedora and Lubuntu as OS.
 - :student: I love data, backtracking, dictionaries, team projects, and learning.
-- :video_game: I like photography, media editing, cooking, redstone, analysis fps gaming coaching, moody music and my lil' cyndaquil.
+- :video_game: I like photography, media editing, cooking, redstone, analysis fps gaming coaching, moody music, F1, NFL, and my lil' cyndaquil.
 
 ### My GitHub Stats (Public repos)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCWebi&layout=compact&theme=dracula&count-private=true)](https://github.com/CCWebi/github-readme-stats)
