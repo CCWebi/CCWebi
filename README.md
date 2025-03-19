@@ -7,6 +7,7 @@
     <p align="center"><img width="25%" alt="Hola, soy Isaac" src="./images/HSI.png" /></p>
 </h3>
 
+- I'm Crazy Dave. WebiWabo
 - 👨‍💻: I'm a Computer Science student from México :mexico:.
 - 💻: My fav lang is Haskell, and I love LaTeX.
 - 🧑‍🎓: My favourite topics are Tail Recursion and Binary Trees.
