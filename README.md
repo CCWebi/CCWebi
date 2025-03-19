@@ -7,7 +7,6 @@
     <p align="center"><img width="25%" alt="Hola, soy Isaac" src="./images/HSI.png" /></p>
 </h3>
 
-- I'm Crazy Dave. WebiWabo
 - 👨‍💻: I'm a Computer Science student from México :mexico:.
 - 💻: My fav lang is Haskell, and I love LaTeX.
 - 🧑‍🎓: My favourite topics are Tail Recursion and Binary Trees.
@@ -41,7 +40,7 @@
 <code><a href="https://es.react.dev"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></code>
 <code><a href="https://figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></code>
 
-### Databases
+### Database related
 
 <code><a href="https://dbeaver.io"><img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" /></code>
 <code><a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></code>
