@@ -54,7 +54,7 @@
     <a href="https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javadoc.html"><img src="https://img.shields.io/badge/javadoc-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 - [Prompt con MIPS y prácticas](https://github.com/CCWebi/Proyectos-EstructurasDeDatos) 
   - <a href="https://computerscience.missouristate.edu/mars-mips-simulator.htm"><img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
-    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"/>
 - [Patrones de Diseño con Java](https://github.com/CCWebi/DesignPatterns)
   - <a href="https://www.java.com"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <a href="https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javadoc.html"><img src="https://img.shields.io/badge/javadoc-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -68,7 +68,7 @@
   - DBMS: <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
           <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   - Herramienta de administración: <a href="https://dbeaver.io"><img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-  - Página web con: <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  - Página web con: <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"/>
                     <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
                     <a href="https://www.django-rest-framework.org"><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
   - Pruebas de API: <a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
@@ -76,10 +76,10 @@
 ### Repositorios privados o contenido local
 
 - Regex, Autómatas y Compilador con Lex y Python
-  - <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  - <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"/>
     <a href="https://www.ibm.com/docs/fi/aix/7.2.0?topic=information-generating-lexical-analyzer-lex-command"><img src="https://img.shields.io/badge/Lex-444444?style=for-the-badge"/>
     <a href="https://gcc.gnu.org"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  - Docs: <a href="https://numpydoc.readthedocs.io/en/latest/format.html"><img src="https://img.shields.io/badge/Docstring Numpy Style-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  - Docs: <a href="https://numpydoc.readthedocs.io/en/latest/format.html"><img src="https://img.shields.io/badge/Docstring Numpy Style-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 - Intérprete de MiniLISP (subset de LISP) con Haskell
   - <a href="https://www.haskell.org"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
     <a href="https://haskell-happy.readthedocs.io/en/latest/introduction.html"><img src="https://img.shields.io/badge/Happy-FFFF51?style=for-the-badge"/>
@@ -97,9 +97,9 @@
 - Análisis de Algoritmos
   - Pseudo-code style: <a href="https://www.java.com"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 - Inteligencia Artificial con YOLO
-  - <a href="https://docs.ultralytics.com"><img src="https://img.shields.io/badge/YOLO-FFFFFF?style=for-the-badge&logo=YOLO&logoColor=blue"/>
+  - <a href="https://docs.ultralytics.com"><img src="https://img.shields.io/badge/YOLO-FFFFFF?style=for-the-badge&logo=YOLO&logoColor=306998"/>
     <a href="https://yaml.org"><img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
-    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"/>
 
 <!--  - <a href=""><img src="">
 -->
