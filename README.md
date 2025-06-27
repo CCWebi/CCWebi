@@ -13,6 +13,7 @@
 - 🎮: I like plant photography, cooking, eSport analysis, and sports.
 - 🗺️: I can speak Spanish (native), English (B2) and some Portuguese (A1) and French (A1).
 
+<!--
 ## My GitHub Stats
 
 > [!NOTE]
@@ -20,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats-opal-rho.vercel.app/api/top-langs/?username=CCWebi&layout=compact&theme=onedark&count-private=true)](https://github.com/CCWebi/github-readme-stats)
 ![GitHub stats](https://github-readme-stats-opal-rho.vercel.app/api?username=CCWebi&show_icons=true&theme=onedark&hide=stars,issues)
-
+-->
 ---
 
 ## Schoolar/Personal projects and assignments
