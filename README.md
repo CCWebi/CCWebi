@@ -79,12 +79,14 @@
   - <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     <a href="https://www.ibm.com/docs/fi/aix/7.2.0?topic=information-generating-lexical-analyzer-lex-command"><img src="https://img.shields.io/badge/Lex-444444?style=for-the-badge"/>
     <a href="https://gcc.gnu.org"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  - Docs: <a href="https://numpydoc.readthedocs.io/en/latest/format.html"><img src="https://img.shields.io/badge/Docstring Numpy Style-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 - Intérprete de MiniLISP (subset de LISP) con Haskell
   - <a href="https://www.haskell.org"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
-    <a href="https://www.ibm.com/docs/fi/aix/7.2.0?topic=information-generating-lexical-analyzer-lex-command"><img src="https://img.shields.io/badge/Happy-FFFF51?style=for-the-badge"/>
+    <a href="https://haskell-happy.readthedocs.io/en/latest/introduction.html"><img src="https://img.shields.io/badge/Happy-FFFF51?style=for-the-badge"/>
+  - Docs: <a href="https://haskell-haddock.readthedocs.io/latest/"><img src="https://img.shields.io/badge/Haddock-FFFFFF?style=for-the-badge&logo=haskell&logoColor=5D4F85"/>
 - Lógica Computacional con Haskell, etc.
   - <a href="https://www.haskell.org"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
-    <a href="https://www.swi-prolog.org"><img src="https://img.shields.io/badge/SWIProlog-b53418?style=for-the-badge"/>
+    <a href="https://www.swi-prolog.org"><img src="https://img.shields.io/badge/SWI Prolog-b53418?style=for-the-badge"/>
     <a href="https://www.di.ens.fr/~rival/semverif-2018/sem-04-coq.pdf"><img src="https://img.shields.io/badge/Coq-ab8b50?style=for-the-badge"/>
 - Sistemas Operativos (tasks de Pintos) con C
   - <a href="https://gcc.gnu.org"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
