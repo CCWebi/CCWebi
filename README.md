@@ -116,7 +116,7 @@
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white"/>
 <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
 
-####💲OS's
+#### 💲OS's
 
 <a href="https://lubuntu.me"><img src="https://img.shields.io/badge/Lubuntu-0068C8?style=flat&logo=lubuntu&logoColor=white"/>
 <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="https://img.shields.io/badge/Windows_11-0078d4?style=flat&logo=windows-11&logoColor=white"/>
