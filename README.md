@@ -104,7 +104,12 @@
   - <a href="https://docs.ultralytics.com"><img src="https://img.shields.io/badge/YOLO-FFFFFF?style=flat&logo=YOLO&logoColor=306998"/>
     <a href="https://yaml.org"><img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515">
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998"/>
-
+- 🌐 Landing page
+  - <a href="https://es.react.dev"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+    <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS 3-1572B6?style=flat&logo=css&logoColor=white"/>
+    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
+  
 <!--  - <a href=""><img src="">
 -->
 
