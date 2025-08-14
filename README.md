@@ -79,6 +79,17 @@
 
 ### 📵 Repositorios privados o contenido local
 
+- 👁️ Staging (beta) site para una óptica
+  - <a href="https://es.react.dev"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+    <a href="https://nextjs.org"><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS 3-1572B6?style=flat&logo=css&logoColor=white"/>
+    <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <a href="https://penpot.app"><img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white"/>
+    <a href="https://pexels.com"><img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white"/>
+    <p align="center">
+        <img src="./images/placeholder.png" style="width:10%;" alt="imagen del sitio web"/>
+    </p>
 - 📖 Regex, Autómatas y Compilador con Lex y Python
   - <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998"/>
     <a href="https://www.ibm.com/docs/fi/aix/7.2.0?topic=information-generating-lexical-analyzer-lex-command"><img src="https://img.shields.io/badge/Lex-444444?style=flat"/>
