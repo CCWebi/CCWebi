@@ -76,6 +76,9 @@
                     <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green">
                     <a href="https://www.django-rest-framework.org"><img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white">
   - Pruebas de API: <a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+- 🥷[Dark Themed LaTeX Template for College Asignments](https://github.com/CCWebi/LaTeX-DarkTemplate)
+  - <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white"/>
+    <a href="https://www.lua.org"><img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white"/>
 
 ### 📵 Repositorios privados o contenido local
 
